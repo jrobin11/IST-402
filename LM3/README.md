@@ -1,3 +1,4 @@
+# Assignment Client GoLang TLS Programming Copy
 Using GoLang perform TLS encryption and decryption on a user string input.
 
 Step 1: Make sure to create the following files in the project working for example C:/Users/joeoa/GolandProjects/TLS_Server
