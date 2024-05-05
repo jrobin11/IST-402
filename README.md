@@ -95,10 +95,7 @@ To run these projects, ensure Go is installed on your machine. Follow these step
   cd Final
   go run main.go
   ```
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
+  
 ## Acknowledgments
-
 - This project was created as part of the IST 402 class at Penn State University.
 
