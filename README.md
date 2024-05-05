@@ -96,12 +96,6 @@ To run these projects, ensure Go is installed on your machine. Follow these step
   go run main.go
   ```
 
-## Contributing
-
-Contributions are welcome. Please ensure to update tests as appropriate.
-
-## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
